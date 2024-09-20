@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Github;Here+I'll+post+some+projects;Hope+you'll+find+them+interesting;Thanks+for+visiting!"></a>
 </p>
 
-# 😎 About Me:
+# 😎 About Me
 ### 📚 I'm a systems engineering student at Javeriana University
 ### 🙌 Gladly to connect and discuss about algorithms, software, data science or whatever you can think I can help with
 ### 💡 Always willing to learn new things
@@ -22,7 +22,7 @@
 
 <!-- GitHub Stats -->
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=rafaaga&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rafaaga&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaaga&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
