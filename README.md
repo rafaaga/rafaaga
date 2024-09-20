@@ -4,11 +4,7 @@
 ### 📚 I'm a systems engineering student at Javeriana University
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+# Technologies That I Know👨🏻‍💻
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
@@ -16,13 +12,17 @@
   </a>
 </p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rafaaga&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rafaaga&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaaga&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 <!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me😁</h2></summary>
-  </ul>
-</div>
+# Connect With Me😁
 
 <!--icons and links-->
 <p align="center">
