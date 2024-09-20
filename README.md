@@ -2,6 +2,9 @@
 
 # About Me 😎:
 ### 📚 I'm a systems engineering student at Javeriana University
+### 🙌 Gladly to connect and discuss algorithms, software, data science or whatever you can think I can help with
+### 💡 Always willing to learn new things
+### ⚽ Fun fact I'm a Barça and Messi fan
 
 
 <!-- Technologies That I Know -->
