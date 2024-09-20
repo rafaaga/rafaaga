@@ -3,7 +3,8 @@
 # About Me 😎:
 ### 📚 I'm a systems engineering student at Javeriana University
 
-<!--h1 without bottom border-->
+
+<!-- Technologies That I Know -->
 # Technologies That I Know👨🏻‍💻
 <!--tech stack icons-->
 <p align="center">
@@ -12,14 +13,17 @@
   </a>
 </p>
 
+<!-- GitHub Stats -->
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rafaaga&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rafaaga&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaaga&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<!-- GitHub Trophies -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rafaaga&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Connect with me -->
 # Connect With Me😁
@@ -31,3 +35,4 @@
 <a href="mailto:rafaelhermida@javerianacali.edu.co" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" alt="instagram" height="50" width="50" /></a>
   
 </p>
+
