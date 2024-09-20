@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Github;Here+I'll+post+some+projects;Hope+you'll+find+them+interesting;Thanks+for+visiting!"></a>
 </p>
 
-# About Me 😎:
+# 😎 About Me:
 ### 📚 I'm a systems engineering student at Javeriana University
 ### 🙌 Gladly to connect and discuss about algorithms, software, data science or whatever you can think I can help with
 ### 💡 Always willing to learn new things
@@ -12,7 +12,7 @@
 
 
 <!-- Technologies That I Know -->
-# Technologies That I Know👨🏻‍💻
+# 👨🏻‍💻 Technologies That I Know
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
@@ -33,7 +33,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=rafaaga&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Connect with me -->
-# Connect With Me😁
+# 😁 Connect With Me
 
 <!--icons and links-->
 <p align="center">
